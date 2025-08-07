@@ -71,7 +71,7 @@ cd seu-repositorio
 
 ## 📄 Licença
 
-Este é um projeto de código aberto.
+Este é um projeto de código aberto..
 
 ---
 
